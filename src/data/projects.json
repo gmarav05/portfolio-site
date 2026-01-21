@@ -1,26 +1,26 @@
 [
     {
-      "title": "E-commerce Dashbord",
+      "title": "AI Translator",
       "slug": "project-1",
-      "description": "A fast, scalable admin panel for managing products, orders, and sales analytics. Built with React, Next.js, Firebase, and TailwindCSS.",
+      "description": "A simple AI-powered text translator built with Google Gemini 2.5 Flash Lite, Cloudflare Workers and deployed on Cloudflare Pages. Translates text from English to languages like French, Spanish and Japanese.",
       "image": "/images/projects/project-1.png",
-      "githubURL": "https://github.com/jamesqquick",
-      "liveSiteURL": "https://jamesqquick.com"
+      "githubURL": "https://github.com/gmarav05/ai-translator",
+      "liveSiteURL": "https://ai-translator-b01.pages.dev/"
     },
     {
-      "title": "SaaS Landing Page",
+      "title": "Coding Game",
       "slug": "project-2",
-      "description": "A redesign of ABC’s landing page, improving UI/UX, conversion rates, and performance. Built with Next.js, TailwindCSS, and Framer Motion.",
+      "description": "A simple word-guessing game built with React where players must guess a hidden word.",
       "image": "/images/projects/project-2.png",
-      "githubURL": "https://github.com/jamesqquick",
-      "liveSiteURL": "https://jamesqquick.com"
+      "githubURL": "https://github.com/gmarav05/coding-game",
+      "liveSiteURL": "https://gmarav05.github.io/coding-game/"
     },
     {
-      "title": "DevTools Chrome Extension",
+      "title": "Dice Game",
       "slug": "project-3",
-      "description": "A Chrome DevTools extension for monitoring API requests in real-time. It provides live request logging and response analysis for developers.",
+      "description": "A simple React-based dice game inspired by Tenzies built using React JS and Vite.",
       "image": "/images/projects/project-3.png",
-      "githubURL": "https://github.com/jamesqquick",
-      "liveSiteURL": "https://jamesqquick.com"
+      "githubURL": "https://github.com/gmarav05/dice-game",
+      "liveSiteURL": "https://gmarav05.github.io/dice-game/"
     }
   ]
